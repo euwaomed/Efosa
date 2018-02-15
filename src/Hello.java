@@ -10,13 +10,13 @@ public class Hello
 
            //Counter=0 is the initialization expression for the loop.
            //Counter<count is the termination expression for the loop. Once it is false, the loop ends.
-           //counter++ is the increment expression that invoked after each iteration through the loop
+           //counter++ is the increment expression that is invoked after each iteration through the loop.
                 //I chose an increment of +1
 
            //Info is from The Java™ Tutorials
 
            System.out.println(message);
-            // Prints the message, "hello world", until it for-loop condition is satisfied
+            // Prints the message, "hello world", until the for-loop condition is satisfied.
     }
 
     public static void main(String[] args)
